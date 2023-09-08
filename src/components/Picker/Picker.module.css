@@ -1,0 +1,11 @@
+.mainbox {
+  width: 250px;
+  height: 250px;
+  border: solid 2px black;
+  /* background-color: bisque; */
+}
+.head {
+  margin: 20px 0px;
+  display: flex;
+  justify-content: center;
+}
